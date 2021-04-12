@@ -1,0 +1,33 @@
+PEP 8:
+  4 space for indentation
+  79 max character per line
+
+  vscode settings.json:
+      "[python]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.rulers": [
+          79
+        ]
+      }
+
+  https://www.python.org/dev/peps/pep-0008/
+
+
+data structures: can hold multiple data types or data objects
+  Dictionaties (dict), unordered key:value pairs, {"k":"v"}
+  Tuples (tup), ordered immutable sequence of objects, (1,"2",3.3)
+  Sets (set), unordered collection of unique objects, {"d","e"}
+
+dynamic typing: reassign variables to different data types
+type(...)  = to determine the type
+
+
+indexing = grab single character on string using square brackets
+can do reverse indexing using by using negative values
+
+indexing: [index]
+substring: [start:stop:step]
+  start: where you start
+  stop: where you stop but not include
+  step: size of the "jump" you take
