@@ -36,12 +36,22 @@ substring: [start:stop:step]
 introduced in python 3.6
 
 Lists: ordered sequence, can hold objects
-uses [val1,val2]
+uses: [val1,val2]
 
 Dictionaties: unordered mapping... has key-value pairing,  grab objects by key
-uses {key1:val1, key2:val2}
+uses: {key1:val1, key2:val2}
 
 Dictionary vs List
 
-dictionary is cannot be sorted but easily retrieve object by key
-list is retrieved by location and can be sorted/indexed/sliced
+"dictionary" cannot be sorted but easily retrieve object by key
+can convert it to tuple using .items()
+
+"list" is retrieved by location and can be sorted/indexed/sliced
+
+Tuples: similar to lists BUT they cannot be changed (immutable)
+can use operations of dictionaries but with additional methods:
+index() and count()
+uses: ()
+
+immutablity is useful for data integrity
+(because we don't want some objects to be reassigned)
