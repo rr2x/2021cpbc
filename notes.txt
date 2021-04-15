@@ -44,9 +44,10 @@ uses: {key1:val1, key2:val2}
 Dictionary vs List
 
 "dictionary" cannot be sorted but easily retrieve object by key
-can convert it to tuple using .items()
+can convert it to "tuple" using "<dictionary>.items()"
 
 "list" is retrieved by location and can be sorted/indexed/sliced
+can convert it to a "set" using "set(<list>)"
 
 Tuples: similar to lists BUT they cannot be changed (immutable)
 can use operations of dictionaries but with additional methods:
@@ -55,3 +56,5 @@ uses: ()
 
 immutablity is useful for data integrity
 (because we don't want some objects to be reassigned)
+
+Sets: unordered collection of unique elements
