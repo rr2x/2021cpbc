@@ -36,3 +36,12 @@ substring: [start:stop:step]
 introduced in python 3.6
 
 Lists: ordered sequence, can hold objects
+uses [val1,val2]
+
+Dictionaties: unordered mapping... has key-value pairing,  grab objects by key
+uses {key1:val1, key2:val2}
+
+Dictionary vs List
+
+dictionary is cannot be sorted but easily retrieve object by key
+list is retrieved by location and can be sorted/indexed/sliced
