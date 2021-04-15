@@ -31,3 +31,8 @@ substring: [start:stop:step]
   start: where you start
   stop: where you stop but not include
   step: size of the "jump" you take
+
+"f strings", or "formatted string literals"
+introduced in python 3.6
+
+Lists: ordered sequence, can hold objects
