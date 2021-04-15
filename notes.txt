@@ -58,3 +58,7 @@ immutablity is useful for data integrity
 (because we don't want some objects to be reassigned)
 
 Sets: unordered collection of unique elements
+
+Booleans: only 'true' or 'false'
+
+if you don't want to assign any datatype to variables use 'None' as value
