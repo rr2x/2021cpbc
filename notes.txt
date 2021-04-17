@@ -1,4 +1,4 @@
-PEP 8:
+PEP 8:1
   4 space for indentation
   79 max character per line
 
@@ -45,9 +45,12 @@ Dictionary vs List
 
 "dictionary" cannot be sorted but easily retrieve object by key
 can convert it to "tuple" using "<dictionary>.items()"
+it will return a list of tuples, they are immutable
 
 "list" is retrieved by location and can be sorted/indexed/sliced
 can convert it to a "set" using "set(<list>)"
+set is like a dictionary but no keys, and values are all unique
+any new value if already exists will not be added
 
 Tuples: similar to lists BUT they cannot be changed (immutable)
 can use operations of dictionaries but with additional methods:
@@ -58,6 +61,7 @@ immutablity is useful for data integrity
 (because we don't want some objects to be reassigned)
 
 Sets: unordered collection of unique elements
+uses: {}
 
 Booleans: only 'true' or 'false'
 
