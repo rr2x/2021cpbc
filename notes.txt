@@ -66,3 +66,6 @@ uses: {}
 Booleans: only 'true' or 'false'
 
 if you don't want to assign any datatype to variables use 'None' as value
+
+
+alot of objects in Python are iterable
