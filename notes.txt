@@ -15,7 +15,7 @@ PEP 8:
 
 
 data structures: can hold multiple data types or data objects
-  Dictionaties (dict), unordered key:value pairs, {"k":"v"}
+  Dictionaries (dict), unordered key:value pairs, {"k":"v"}
   Tuples (tup), ordered immutable sequence of objects, (1,"2",3.3)
   Sets (set), unordered collection of unique objects, {"d","e"}
 
@@ -38,7 +38,7 @@ introduced in python 3.6
 Lists: ordered sequence, can hold objects
 uses: [val1,val2]
 
-Dictionaties: unordered mapping... has key-value pairing,  grab objects by key
+Dictionaries: unordered mapping... has key-value pairing,  grab objects by key
 uses: {key1:val1, key2:val2}
 
 Dictionary vs List
