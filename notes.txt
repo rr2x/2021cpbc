@@ -81,3 +81,7 @@ python operators:
   min = return minimum value in list
   shuffle = randomize order of list, in-place function
   randint = give random number
+
+list comprehension:
+  creating of list easily, using a flattened for-loop
+    v = [<element or operation or if-else> for <element> in <list> <if>]
