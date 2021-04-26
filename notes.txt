@@ -69,3 +69,15 @@ if you don't want to assign any datatype to variables use 'None' as value
 
 
 alot of objects in Python are iterable
+
+
+python operators:
+  range = just like when manipulating lists and strings (has index, size, step)
+  enumerate = return Tuple, useful for not needing to create a counter variable in a loop
+  zip = returns a Tuple (after pairing up two or more lists)
+        it will only go and zip as far as the list with the shortest count
+  in = check if it exists on list, string, dictionary
+  max = return max value in list
+  min = return minimum value in list
+  shuffle = randomize order of list, in-place function
+  randint = give random number
