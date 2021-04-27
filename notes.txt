@@ -85,3 +85,6 @@ python operators:
 list comprehension:
   creating of list easily, using a flattened for-loop
     v = [<element or operation or if-else> for <element> in <list> <if>]
+
+methods:
+  built in functions in objects
