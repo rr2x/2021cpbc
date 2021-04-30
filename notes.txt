@@ -88,3 +88,42 @@ list comprehension:
 
 methods:
   built in functions in objects
+
+
+milestone project 1 (explanation):
+  ~~ breakdown problems
+
+  tic-tac-toe for 2 human players
+  reprint board every move
+  input of player position
+
+  tic-tac-toe board (position):
+  7 8 9
+  4 5 6
+  1 2 3
+
+  alternate symbol X and O
+
+
+  Welcome to Tic Tac Toe!
+
+  Player 1: Do you want to be X or O?
+  >> X
+
+  Player 1 will go first.
+
+  Are you ready to play? Enter 'Y' or 'N'.
+
+  Choose your next position: (1-9)
+
+    --- --- ---
+   | 7 | 8 | 9 |
+   |---|---|---|
+   | 4 | 5 | 6 |
+   |---|---|---|
+   | 1 | 2 | 3 |
+    --- --- ---
+
+  Choose your next position: (1-9)
+
+  Congratulations! You have won the game!
