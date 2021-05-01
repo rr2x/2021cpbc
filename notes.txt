@@ -127,3 +127,13 @@ milestone project 1 (explanation):
   Choose your next position: (1-9)
 
   Congratulations! You have won the game!
+
+
+
+
+  __init__ = object constructor
+
+  self = connected to instance of class
+
+  camel case = for classes
+  snake case = for variables and methods
