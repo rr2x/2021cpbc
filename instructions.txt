@@ -4,4 +4,4 @@ install python 3.8 (because 3.9 and above no windows 7)
 
 >> pip install notebook
 
->> jupyter notebook --notebook-dir "E:\PYTHON-TRAINING\2021cpbc"
+>> jupyter notebook --notebook-dir "D:\CODE\TRAINING\2021cpbc"
