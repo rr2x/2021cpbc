@@ -137,3 +137,8 @@ milestone project 1 (explanation):
 
   camel case = for classes
   snake case = for variables and methods
+
+
+
+PyPi = repository for 3rd party packages
+>> pip install
