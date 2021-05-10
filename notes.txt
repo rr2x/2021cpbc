@@ -157,8 +157,16 @@ __name__ will have a value of "__main__" if run directly
 try:
   # attempt to run code
 except:
-  # if error
+  # if error encountered from "try"
 else:
-  # execute if no error
+  # execute if no error from "try"
 finally:
   # run regardless if error or not
+
+
+
+
+pylint & built-in unittest library
+
+>> pip install pylint
+>> pylint <file>.py
