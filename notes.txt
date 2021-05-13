@@ -170,3 +170,8 @@ pylint & built-in unittest library
 
 >> pip install pylint
 >> pylint <file>.py
+
+
+
+decorators: allows you to decorate a function, tack on extra
+            functionality to an existing function, uses @
