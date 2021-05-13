@@ -174,4 +174,9 @@ pylint & built-in unittest library
 
 
 decorators: allows you to decorate a function, tack on extra
-            functionality to an existing function, uses @
+            functionality to an existing function, uses '@'
+
+
+generators: function that sends value overtime, uses 'yield' keyword
+            they can resume or suspend at a specific point,
+            and are memory efficient compared to a whole list
