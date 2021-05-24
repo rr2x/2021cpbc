@@ -7,7 +7,10 @@ install python 3.8 (because 3.9 and above no windows 7)
 >> jupyter notebook --notebook-dir "D:\CODE\TRAINING\2021cpbc\notebook"
 
 for webscraping:
-
 >> pip install requests
 >> pip install lxml
 >> pip install bs4
+
+for images:
+>> pip install pillow
+>> jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10
