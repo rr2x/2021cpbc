@@ -21,3 +21,11 @@ Pandas = huge library for data analysis (files, visualizations)
 Openpyxl = designed specifically for excel (formulas, etc.)
 
 Goole Sheets Python API = edit spreadshets hosted at google
+
+PyPDF2 = for reading PDF files
+         PDF files are too sensitive, that's why there are paid
+         libraries to take care of complexities on compatibility
+         (if pdf is scanned/ocr, we can't read it properly)
+         if manipulating PDFs, just use a paid library
+
+>> pip install PyPDF2
