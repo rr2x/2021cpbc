@@ -14,3 +14,10 @@ for webscraping:
 for images:
 >> pip install pillow
 >> jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10
+
+
+Pandas = huge library for data analysis (files, visualizations)
+
+Openpyxl = designed specifically for excel (formulas, etc.)
+
+Goole Sheets Python API = edit spreadshets hosted at google
